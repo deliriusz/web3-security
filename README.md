@@ -19,7 +19,7 @@ Independent security researcher and smart contract developer.
 | ---- | ---- | ---------|
 | GMXv2 | synth perpertuals | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/GMX_Synthetics_07_11_2023.pdf) |
 | StackOS v2 | decentralized cloud | [report](assets/Securr_-_Smart_Contract_Security_Assessment_Report_for_StackOs.pdf) |
-| StakeTogether | LSD | [report](assets/Sense.md) |
+| StakeTogether | LSD | [report](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) |
 | IDriss | decentralized payments & address book | TBD |
 
 ## Competitive audits
