@@ -26,13 +26,15 @@ Independent security researcher and smart contract developer.
 * [Code4rena certified backstage warden](https://code4rena.com/@deliriusz) - 7th place on 90 days leaderboard (as of June 2023)
 * [Venus Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top) - 4th place
 
-## Articles
+## Content creation
 * Contributed to [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
 * Writing about security on [Medium](https://medium.com/@deliriusz)
+* [YouTube channel](https://www.youtube.com/@deliriusz)
     
 ## Web3 dev
 * [IDriss](https://www.idriss.xyz/) contributor
 * [Turbo-DIPaaS](https://ethglobal.com/showcase/turbodipaas-qfwjr) - 🏆 finalist project for ETHOnline 2022
+* [turbopoc](https://github.com/deliriusz/turbopoc) - quick PoC environment setup for bounty hunting on mainnet contracts
 
 ## Contact
 Interested in reaching out? DM me [@deliriusz_eth](https://twitter.com/deliriusz_eth)
