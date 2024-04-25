@@ -17,7 +17,7 @@ Independent security researcher and smart contract developer.
 ## Private audits
 | protocol | scope | report |
 | ---- | ---- | ---------|
-| GMXv2 | synth perpertuals | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/GMX_Synthetics_07_11_2023.pdf) |
+| GMXv2 | synth perpertuals | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2023-07-11_GMX_Synthetics.pdf) |
 | StackOS v2 | decentralized cloud | [report](assets/Securr_-_Smart_Contract_Security_Assessment_Report_for_StackOs.pdf) |
 | StakeTogether | LSD | [report](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) |
 | IDriss | decentralized payments & address book | TBD |
@@ -25,6 +25,7 @@ Independent security researcher and smart contract developer.
 ## Competitive audits
 * [Code4rena certified backstage warden](https://code4rena.com/@deliriusz) - 7th place on 90 days leaderboard (as of June 2023)
 * [Venus Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top) - 4th place
+* [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) - 🥉 3rd place
 
 ## Content creation
 * Contributed to [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
