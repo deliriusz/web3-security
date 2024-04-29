@@ -20,7 +20,10 @@ Independent security researcher and smart contract developer.
 | GMXv2 | synth perpertuals | [report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2023-07-11_GMX_Synthetics.pdf) |
 | StackOS v2 | decentralized cloud | [report](assets/Securr_-_Smart_Contract_Security_Assessment_Report_for_StackOs.pdf) |
 | StakeTogether | LSD | [report](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) |
-| IDriss | decentralized payments & address book | TBD |
+| IDriss | decentralized payments & address book | coming soon |
+| Quarktium | NFT | coming soon |
+| Pear protocol (Pear labs) | Position pairs trading on GMX | [report](https://github.com/shieldify-security/audits-portfolio/blob/main/README.md) |
+| IDriss | cross-chain donations for Gitcoin | coming soon |
 
 ## Competitive audits
 * [Code4rena certified backstage warden](https://code4rena.com/@deliriusz) - 7th place on 90 days leaderboard (as of June 2023)
