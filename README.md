@@ -31,6 +31,7 @@ Independent security researcher and smart contract developer.
 * [HODL](https://code4rena.com/audits/2024-05-hodl-invitational#top) - 🥇 1st place
 * [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) - 🥉 3rd place
 * [Venus Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top) - 4th place
+* [Canto](https://code4rena.com/audits/2024-05-canto#top) - 4th place
 * [ZetaChain (Cosmos ecosystem)](https://code4rena.com/audits/2023-11-zetachain#top) - 9th place
 
 ## Content creation
