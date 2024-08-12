@@ -27,9 +27,11 @@ Independent security researcher and smart contract developer.
 
 ## Competitive audits
 * [Code4rena certified backstage warden](https://code4rena.com/@deliriusz) - 7th place on 90 days leaderboard (as of June 2023)
-* [ZetaChain (Cosmos ecosystem)](https://code4rena.com/audits/2023-11-zetachain#top) - 9th place
-* [Venus Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top) - 4th place
+* [Krystal DeFi](https://code4rena.com/audits/2024-06-krystal-defi-invitational#top) - 🥇 1st place
+* [HODL](https://code4rena.com/audits/2024-05-hodl-invitational#top) - 🥇 1st place
 * [Wise Lending](https://code4rena.com/audits/2024-02-wise-lending#top) - 🥉 3rd place
+* [Venus Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top) - 4th place
+* [ZetaChain (Cosmos ecosystem)](https://code4rena.com/audits/2023-11-zetachain#top) - 9th place
 
 ## Content creation
 * Contributed to [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
