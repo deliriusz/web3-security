@@ -33,6 +33,7 @@ Independent security researcher and smart contract developer.
 * [Venus Isolated Pools](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top) - 4th place
 * [Canto](https://code4rena.com/audits/2024-05-canto#top) - 4th place
 * [ZetaChain (Cosmos ecosystem)](https://code4rena.com/audits/2023-11-zetachain#top) - 9th place
+* [Blast L2 (geth & smart contracts)](https://github.com/blast-io) - 13th place
 
 ## Content creation
 * Contributed to [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
